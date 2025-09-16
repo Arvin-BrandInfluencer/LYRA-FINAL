@@ -1,1 +1,9 @@
-
+Flask
+python-dotenv
+supabase
+flask-cors
+pandas
+loguru
+Flask[async]
+pytest
+pytest-mock
