@@ -79,17 +79,14 @@ pip install -r requirements.txt
 
 4️⃣ Configure Environment Variables
 Create a .env file in the root directory with the following:
-# .env.example
+.env.example
 
-# Your Supabase project URL
+Your Supabase project URL
 SUPABASE_URL="https://your-project-ref.supabase.co"
 
-# Your Supabase project anon (public) key
+Your Supabase project anon (public) key
 SUPABASE_KEY="your-supabase-anon-key"
 
-# Optional: Port and Host for Flask server
-# PORT=10000
-# HOST="0.0.0.0"
 
 5️⃣ Run the Application
 python run.py
