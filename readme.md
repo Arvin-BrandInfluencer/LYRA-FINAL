@@ -64,11 +64,12 @@ cd Lyra-Final
 
 2️⃣ Set up a Virtual Environment
 It is highly recommended to use a virtual environment for dependencies.
-# macOS/Linux
+
+For Mac
 python3 -m venv venv
 source venv/bin/activate
 
-# Windows
+For Windows
 python -m venv venv
 .\venv\Scripts\activate
 
